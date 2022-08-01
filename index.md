@@ -1,10 +1,30 @@
-## Welcome to GitHub Pages
+## Economía Laboral 2022 2S
 
-You can use the [editor on GitHub](https://github.com/junghanss/junghanss.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sitio repositorio para las clases prácticas de Economía Laboral, segundo semestre 2022. Comisión B. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Descripción del curso:
+Las sesiones prácticas se enfocarán principalmente en **programación en R**, **análisis de datos** e **implementaciones empíricas de la economía laboral**. Estas son un complemento a las clases teóricas del curso y, por ende, llevan una nota que ponderará sobre la calificación final de la materia.
 
-### Markdown
+### Cronograma:
+El cronograma se compone de la siguiente manera y está sujeto a eventuales cambios sin previo aviso de ser necesario.
+
+
+### Bibliografía:
+
+
+
+### Horarios:
+Martes de 13 a 15hs. 
+
+
+
+
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +48,3 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/junghanss/junghanss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
