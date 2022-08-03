@@ -1,5 +1,5 @@
 layout: page
-title: "Introduction R"
+title: Introduction R
 permalink: /introduction-r/
 
 
