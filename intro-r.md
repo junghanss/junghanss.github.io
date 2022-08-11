@@ -8,7 +8,7 @@ permalink: /introduction-r/
 ### Menú del sitio: 
 - [Homepage](./index.md)
 - [Material de clases (slides, TPs)](./material.md)
-- Introducción a LaTeX
+- [Introducción a LaTeX](./intro-latex.md)
 
 &nbsp; 
 
