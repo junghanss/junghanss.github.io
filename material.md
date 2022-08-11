@@ -2,6 +2,7 @@
 layout: page
 title: Material de clase
 permalink: /material/
+theme: jekyll-theme-slate
 
 ---
 
