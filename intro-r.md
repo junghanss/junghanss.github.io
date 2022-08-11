@@ -2,7 +2,7 @@
 layout: page
 title: Introduction R
 permalink: /introduction-r/
-theme: minima
+theme: jekyll-theme-slate
 
 ---
 
