@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: Material de clase
 permalink: /material/
-theme: jekyll-theme-slate
 
 ---
 
