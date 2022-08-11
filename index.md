@@ -4,6 +4,7 @@
 **Sitio repositorio para las clases prácticas de Economía Laboral.**<br>
 **Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz**
 
+&nbsp;
 
 ### Menú del sitio: 
 - [Introducción a R](./intro-r.md)
@@ -40,6 +41,7 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 - James, G., Witten, D., Hastie, T., Tibshirani, R., (2013). _An introduction to statistical learning: with applications in R_. New York. Springer.
 - Wickham, H. (2019). _Advanced R_. CRC Press.
 
+&nbsp;
 &nbsp;
 
 ### NAVEGACIÓN Y LINKS IMPORTANTES:
