@@ -14,7 +14,7 @@ permalink: /material/
 
 ## Material de clase
 
-Este sitio provee todo el material relacionado a las clases, es decir, presentaciones, documentos, etc. Según el cronograma, el material irá siendo disponible periodicamente.
+Este sitio provee todo el material relacionado a las clases, es decir, presentaciones, trabajos prácticos, documentos anexos, etc. Según el cronograma, el material irá estando disponible periodicamente.
 
 &nbsp; 
 
