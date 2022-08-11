@@ -1,5 +1,5 @@
-**Sitio repositorio para las clases prácticas de Economía Laboral.**<br>
-**Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz**
+#### **Sitio repositorio para las clases prácticas de Economía Laboral.**<br>
+#### **Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz**
 
 ### Navegación del sitio:
 - [Introducción a R](./intro-r.md)
