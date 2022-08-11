@@ -5,6 +5,13 @@ permalink: /introduction-r/
 
 ---
 
+### Menú del sitio: 
+- [Homepage](./index.md)
+- [Material de clases (slides, TPs)](./material.md)
+- Introducción a LaTeX
+
+&nbsp; 
+
 ## Introducción a R
 
 
