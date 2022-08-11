@@ -53,7 +53,7 @@ Por recomendación y experiencia personal, sugiero los siguientes:
 La curva de aprendizaje de LaTeX es exponencial. Inicialmente cuesta un poco, pero con el transcurso de las semanas y con una práctica regular uno se vuelve capaz de inclusive crear gráficos a partir de simples códigos expresando una función y cantidad de puntos.
 Sin embargo, como puede ser difícil cuando no se practica regularmente, hay herramientas que facilitan ese aprendizaje, tales como:
 - **Cheatsheets y Manuales**: hay decenas de cheatsheets para LaTeX. A continuación algunos archivos útiles;
-  - [Cheatsheet general](docs/material/CheatSheet - LaTeX.pdf)
+  - [Cheatsheet general](docs/material/CheatSheet-LaTeX.pdf)
   - [Manual para economistas del paquete Tikz](docs/material/Tikz-Economics.pdf)
 - **Templates**: hay cientos de [templates privados en Overleaf](https://www.overleaf.com/latex/templates), pero les facilito a continuación algunos personales;
   - **Template para artículos**
