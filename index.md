@@ -3,7 +3,7 @@
 - [Introducción a R](./intro-r.md)
 - Introducción a LaTeX
 
-![Header](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/assets/header-image.jpg)
+![Header](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/header-image.jpg)
 
 ## Acerca del curso
 **Sitio repositorio para las clases prácticas de Economía Laboral.**<br>
@@ -22,7 +22,7 @@ El curso de Economía Laboral se centra en el funcionamiento de los mercados de 
 ### Cronograma:
 El cronograma se compone de la siguiente manera y está sujeto a eventuales cambios sin previo aviso de ser necesario:
 
-![Cronograma Version 1](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/assets/Cronograma_V1.png)
+![Cronograma Version 1](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/Cronograma_V1.png)
 _Última actualización: 09/08/2022 (versión 1)_
 
 
