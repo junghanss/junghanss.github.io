@@ -20,7 +20,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 
 ### Trabajos Prácticos:
-- [Trabajo Práctico Nº1](https://github.com/junghanss/junghanss.github.io/blob/9d8a23a43d67a8502129356da85f95da5a4caf38/docs/material/TP_1.pdf)
+- [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
 
 &nbsp;
 
@@ -32,6 +32,6 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 
 ### Documentos adicionales:
-- [Definiciones Fuerza Laboral](https://github.com/junghanss/junghanss.github.io/blob/9d8a23a43d67a8502129356da85f95da5a4caf38/docs/material/definiciones_fuerza_laboral.pdf)
+- [Definiciones Fuerza Laboral](docs/material/definiciones_fuerza_laboral.pdf)
 
 &nbsp;
