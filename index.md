@@ -40,6 +40,7 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 - James, G., Witten, D., Hastie, T., Tibshirani, R., (2013). _An introduction to statistical learning: with applications in R_. New York. Springer.
 - Wickham, H. (2019). _Advanced R_. CRC Press.
 
+&nbsp;
 
 ### NAVEGACIÓN Y LINKS IMPORTANTES:
 - [Introducción a R](./intro-r.md)
