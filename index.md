@@ -5,7 +5,7 @@
 **Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz**
 
 ### Menú del sitio: 
-- Material de clases (slides, TPs)
+- [Material de clases (slides, TPs)](./material.md)
 - [Introducción a R](./intro-r.md)
 - Introducción a LaTeX
 
