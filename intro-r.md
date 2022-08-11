@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: Introduction R
 permalink: /introduction-r/
-theme: jekyll-theme-slate
 
 ---
 
