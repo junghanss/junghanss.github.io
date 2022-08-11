@@ -15,6 +15,8 @@ permalink: /introduction-r/
 ## Introducción a R
 
 
+![R Programming](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/r_logo.png)
+
 ### Descarga:
 
 - R se puede descargar desde [http://cran.r-project.org/](http://cran.r-project.org/)
