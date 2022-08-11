@@ -1,7 +1,7 @@
 ### Menú del sitio: 
 - [Material de clases (slides, TPs)](./material.md)
 - [Introducción a R](./intro-r.md)
-- Introducción a LaTeX
+- [Introducción a LaTeX](./intro-latex.md)
 
 ![Header](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/header-image.jpg)
 
@@ -52,6 +52,6 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 ### Menú del sitio: 
 - [Material de clases (slides, TPs)](./material.md)
 - [Introducción a R](./intro-r.md)
-- Introducción a LaTeX
+- [Introducción a LaTeX](./intro-latex.md)
 
 
