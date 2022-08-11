@@ -2,7 +2,7 @@
 **Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz**
 
 
-### Navegación del sitio:
+### Menú del sitio: 
 - [Introducción a R](./intro-r.md)
 
 ### Descripción del curso:
@@ -38,7 +38,7 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 - Wickham, H. (2019). _Advanced R_. CRC Press.
 
 
-### LINKS IMPORTANTES:
+### NAVEGACIÓN Y LINKS IMPORTANTES:
 - [Introducción a R](./intro-r.md)
 
 
