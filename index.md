@@ -53,6 +53,8 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 &nbsp;
 
 ### NAVEGACIÓN Y LINKS IMPORTANTES:
+- [Material de clases (slides, TPs)](./material.md)
 - [Introducción a R](./intro-r.md)
+- Introducción a LaTeX
 
 
