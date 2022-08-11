@@ -25,13 +25,13 @@ La nota surge de un promedio aritmético de cuatro trabajos prácticos distribui
 
 ### Bibliografía:
 
-- Borjas, George J.. (2016). _Labor Economic_ (Ed. 7th). New York: McGraw Hill.
+- Borjas, George J.. (2016). _Labor Economics_ (Ed. 7th). New York: McGraw Hill.
 - Grolemund, G., & Wickham, H. (2017). _R for Data Science_. O’Reilly Media.
 
 ### Bibliografía recomendada:
 
 No se incluye en el curso, pero se recomienda la siguiente bibliografía para profundizar el contenido visto y temas adicionales:
-- James, G., Witten, D., Hastie, T., Tibshirani, R., (2013). _An introduction to statistical learning : with applications in R_. New York. Springer.
+- James, G., Witten, D., Hastie, T., Tibshirani, R., (2013). _An introduction to statistical learning: with applications in R_. New York. Springer.
 - Wickham, H. (2019). _Advanced R_. CRC Press.
 
 
