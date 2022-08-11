@@ -1,3 +1,6 @@
+![Header](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/assets/header-image.jpg)
+
+
 **Sitio repositorio para las clases prácticas de Economía Laboral.**<br>
 **Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz**
 
