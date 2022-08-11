@@ -1,13 +1,21 @@
-## Economía Laboral 2S 2022
-
-Sitio repositorio para las clases prácticas de Economía Laboral, segundo semestre 2022.\\ Comisión B - Prof. Junghanss Juan Cruz
+Sitio repositorio para las clases prácticas de Economía Laboral.<br>
+Segundo semestre 2022 - Comisión B - Junghanss Juan Cruz
 
 
 ### Descripción del curso:
-Las sesiones prácticas se enfocarán principalmente en **programación en R**, **análisis de datos** e **implementaciones empíricas de la economía laboral**. Estas son un complemento a las clases teóricas del curso y, por ende, llevan una nota que ponderará sobre la calificación final de la materia.
+El curso de Economía Laboral se centra en el funcionamiento de los mercados de trabajo y la teoría del capital humano, cubriendo tanto aspectos teóricos como empíricos. Las sesiones prácticas se enfocarán principalmente en la **programación en R**, el **análisis de datos** y las **implementaciones empíricas** de la economía laboral. Estas sesiones son un complemento a las clases teóricas del curso y, por ende, llevan una nota que ponderará sobre la calificación final de la materia.
+
+
+### Logística del curso:
+- Horarios de cursada: martes de 13 a 15hs. 
+- Modalidad: presencial. No se dispondrán de grabaciones de las clases por resolución de la Universidad.
+- Contenido: el material se actualizará siempre en esta página. Adicionalmente, documentos importantes como TPs se pueden encontrar también en el Webcampus oficial.
+
 
 ### Cronograma:
-El cronograma se compone de la siguiente manera y está sujeto a eventuales cambios sin previo aviso de ser necesario.
+El cronograma se compone de la siguiente manera y está sujeto a eventuales cambios sin previo aviso de ser necesario:
+
+
 
 
 ### Bibliografía:
@@ -16,20 +24,5 @@ El cronograma se compone de la siguiente manera y está sujeto a eventuales camb
 - Grolemund, G., \& Wickham, H. (2017). _R for Data Science_. O’Reilly Media.
 
 
-### Horarios:
-Martes de 13 a 15hs. 
-
-
-
-
-
-
-
-
-
-
-
-
-[Link](url) and ![Image](src)
 
 
