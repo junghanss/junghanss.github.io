@@ -7,7 +7,7 @@ permalink: /material/
 ### Menú del sitio: 
 - [Homepage](./index.md)
 - [Introducción a R](./intro-r.md)
-- Introducción a LaTeX
+- [Introducción a LaTeX](./intro-latex.md)
 
 &nbsp; 
 
