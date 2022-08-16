@@ -39,6 +39,6 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Documentos adicionales:
 - [Definiciones Fuerza Laboral](docs/material/definiciones_fuerza_laboral.pdf)
-- [Template Artículo LaTeX]()
+- [Template Artículo LaTeX](docs/material/Template_Article_Econ_Laboral.zip): la carpeta .zip la cargan como proyecto en Overleaf.
 
 &nbsp;
