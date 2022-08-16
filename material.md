@@ -27,11 +27,18 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Presentaciones:
 - [Clase Nº1 - 09/08/2022 - Introducción](docs/material/presentacion_clase_1.pdf)
+- [Clase Nº2 - 16/08/2022 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
 
 &nbsp;
 
+### Códigos en R:
+- [Clase Nº2 - Ejercitación TP Nº1](docs/material/clase_2_ejercitacion_TP1.R)
+
+
+&nbsp;
 
 ### Documentos adicionales:
 - [Definiciones Fuerza Laboral](docs/material/definiciones_fuerza_laboral.pdf)
+- [Template Artículo LaTeX]()
 
 &nbsp;
