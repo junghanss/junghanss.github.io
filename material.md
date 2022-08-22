@@ -28,6 +28,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 ### Presentaciones:
 - [Clase Nº1 - 09/08/2022 - Introducción](docs/material/presentacion_clase_1.pdf)
 - [Clase Nº2 - 16/08/2022 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
+- [Clase Nº3 - 23/08/2022 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
 
 &nbsp;
 
