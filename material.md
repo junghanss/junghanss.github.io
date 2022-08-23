@@ -34,7 +34,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Códigos en R:
 - [Clase Nº2 - Ejercitación TP Nº1 (updated)](docs/material/clase_2_ejercitacion_TP1.R)
-
+- Clase Nº3 - Ejercitación TP Nº1
 
 &nbsp;
 
