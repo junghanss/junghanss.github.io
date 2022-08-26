@@ -57,7 +57,7 @@ Sin embargo, como puede ser difícil cuando no se practica regularmente, hay her
   - [Manual para economistas del paquete Tikz](docs/material/Tikz-Economics.pdf)
 - **Templates**: hay cientos de [templates privados en Overleaf](https://www.overleaf.com/latex/templates), pero les facilito a continuación algunos personales;
   - [**Template para artículos**](docs/material/Template_Article_Econ_Laboral.zip): la carpeta .zip la cargan como proyecto en Overleaf.
-  - **Template para presentaciones (Beamer)**
+  - [**Template para presentaciones (Beamer)**](docs/material/Template_Beamer.zip): la carpeta. zip la cargan como proyecto en Overleaf.
 - [**Tutoriales de Overleaf**](https://www.overleaf.com/learn): la misma página de Overleaf ofrece decenas de manuales explicativos para paquetes, funciones, etc con ejemplos interactivos.
 - **Comunidades**: para buscar la solución a un error, por excelencia el mejor foro es [TexStackExchange](https://tex.stackexchange.com/) (subforo de StackOverFlow)
 
