@@ -34,12 +34,14 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Códigos en R:
 - [Clase Nº2 - Ejercitación TP Nº1 (updated)](docs/material/clase_2_ejercitacion_TP1.R)
-- Clase Nº3 - Ejercitación TP Nº1
+- [Clase Nº3 - Ejercitación TP Nº1](docs/material/clase_3_ejercitacion_TP1.R)
 
 &nbsp;
 
 ### Documentos adicionales:
 - [Definiciones Fuerza Laboral](docs/material/definiciones_fuerza_laboral.pdf)
 - [Template Artículo LaTeX](docs/material/Template_Article_Econ_Laboral.zip): la carpeta .zip la cargan como proyecto en Overleaf.
+- [Template Beamer LaTeX](docs/material/Template_Beamer.zip): la carpeta .zip la cargan como proyecto en Overleaf.
+
 
 &nbsp;
