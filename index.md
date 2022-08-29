@@ -43,7 +43,7 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 
 ### Contacto:
 - Mail: [junghanss.jc@gmail.com](mailto:junghanss.jc@gmail.com)
-- Telegram: @jcjunghanss / Whatsapp: +49 178 3172072
+- Telegram: @jcjunghanss / Whatsapp: +54 9 11 2167-1040
 - [LinkedIn](https://www.linkedin.com/in/junghanss-juan/)
 
 &nbsp;
