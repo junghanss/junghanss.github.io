@@ -31,7 +31,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº2 - 16/08/2022 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
 - [Clase Nº3 - 23/08/2022 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
 - [Clase Nº4 - 30/08/2022 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
-- Clase Nº5 - 06/09/2022
+- [Clase Nº5 - 06/09/2022 - Data Wrangling: Dates & Times](docs/material/presentacion_clase_5.pdf)
 
 &nbsp;
 
