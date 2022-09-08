@@ -22,8 +22,8 @@ El curso de Economía Laboral se centra en el funcionamiento de los mercados de 
 ### Cronograma:
 El cronograma se compone de la siguiente manera y está sujeto a eventuales cambios sin previo aviso de ser necesario:
 
-![Cronograma Version 1](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/Cronograma_V1.png)
-_Última actualización: 09/08/2022 (versión 1)_
+![Cronograma Version 1](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/Cronograma_V2.png)
+_Última actualización: 08/09/2022 (versión 2)_
 
 
 ### Calificación:
