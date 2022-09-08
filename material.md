@@ -39,6 +39,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº2 - Ejercitación TP Nº1 (updated)](docs/material/clase_2_ejercitacion_TP1.R)
 - [Clase Nº3 - Ejercitación TP Nº1](docs/material/clase_3_ejercitacion_TP1.R)
 - [Clase Nº4 - Introducción a Git & GitHub](docs/material/Notas_codigo_clase_4.docx)
+- [Clase Nº5 - Manipulación de Datos con Dates & Times](docs/material/clase_5_ejercitacion.R)
 
 &nbsp;
 
