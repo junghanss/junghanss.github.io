@@ -32,7 +32,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº3 - 23/08/2022 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
 - [Clase Nº4 - 30/08/2022 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
 - [Clase Nº5 - 06/09/2022 - Data Wrangling: Dates & Times](docs/material/presentacion_clase_5.pdf)
-- [Clase Nº - 13/09/2022 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
+- [Clase Nº6 - 13/09/2022 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
 
 &nbsp;
 
