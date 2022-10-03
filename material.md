@@ -23,6 +23,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
 - [Trabajo Práctico Nº2](docs/material/TP_2.pdf)
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
+- [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
 
 &nbsp;
 
@@ -36,6 +37,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº6 - 13/09/2022 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
 - [Clase Nº7 - 20/09/2022 - Dynamic Labor Supply and Labor Demand](docs/material/presentacion_clase_7.pdf)
 - [Clase Nº7 bis - 20/09/2022 - Ejercicio 4 TP2](docs/material/TP2_Ej4.pdf)
+- [Clase Nº9 - 04/10/2022 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_9.pdf)
 
 &nbsp;
 
