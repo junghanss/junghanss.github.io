@@ -38,6 +38,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº7 - 20/09/2022 - Dynamic Labor Supply and Labor Demand](docs/material/presentacion_clase_7.pdf)
 - [Clase Nº7 bis - 20/09/2022 - Ejercicio 4 TP2](docs/material/TP2_Ej4.pdf)
 - [Clase Nº9 - 04/10/2022 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_9.pdf)
+- [Clase Nº10 - 11/10/2022 - Vectors & Factors in R](docs/material/presentacion_clase_10.pdf)
 
 &nbsp;
 
