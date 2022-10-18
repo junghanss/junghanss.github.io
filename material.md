@@ -39,6 +39,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº7 bis - 20/09/2022 - Ejercicio 4 TP2](docs/material/TP2_Ej4.pdf)
 - [Clase Nº9 - 04/10/2022 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_9.pdf)
 - [Clase Nº10 - 11/10/2022 - Vectors & Factors in R](docs/material/presentacion_clase_10.pdf)
+- [Clase Nº11 - 18/10/2022 - Strings & RegEx in R](docs/material/presentacion_clase_11.pdf)
 
 &nbsp;
 
@@ -47,6 +48,8 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº3 - Ejercitación TP Nº1](docs/material/clase_3_ejercitacion_TP1.R)
 - [Clase Nº4 - Introducción a Git & GitHub](docs/material/Notas_codigo_clase_4.docx)
 - [Clase Nº5 - Manipulación de Datos con Dates & Times](docs/material/clase_5_ejercitacion.R)
+- [Clase Nº10 - Ejercitación TP Nº3](docs/material/TP3_Correlacion_Informalidad.R)
+- [Clase Nº10 - Vectores y Factors](docs/material/Vectors_Factors.R)
 
 &nbsp;
 
