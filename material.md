@@ -54,6 +54,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº10 - Vectores y Factors](docs/material/Vectors_Factors.R)
 - [Clase Nº11 - Strings y RegEx](docs/material/strings_regex.R)
 - [Clase Nº12 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
+- [Clase Nº12 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
 
 &nbsp;
 
