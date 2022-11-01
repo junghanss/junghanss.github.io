@@ -27,7 +27,8 @@ _Última actualización: 01/11/2022 (versión 3)_
 
 
 ### Calificación:
-La nota surge de un promedio aritmético de cuatro trabajos prácticos distribuidos a lo largo del cuatrimestre (ver cronograma).
+La nota de la parte práctica surge de un promedio aritmético de cuatro trabajos prácticos distribuidos a lo largo del cuatrimestre (ver cronograma). Cada parcial
+tendrá un 35% de peso sobre la nota final, la nota de la parte práctica (TPs) un 20% y las presentaciones un 10%.
 
 
 ### Bibliografía:
