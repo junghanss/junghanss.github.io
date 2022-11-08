@@ -43,6 +43,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº11 - 18/10/2022 - Strings & RegEx in R](docs/material/presentacion_clase_11.pdf)
 - [Clase Nº12 - 25/10/2022 - Python & Stata](docs/material/presentacion_clase_12.pdf)
 - [Clase Nº13 - 01/11/2022 - Compensating Wage Differentials & Income Distribution](docs/material/presentacion_clase_13.pdf)
+- [Clase Nº14 - 08/11/2022 - Intro to Machine Learning](docs/material/presentacion_clase_14.pdf)
 
 &nbsp;
 
@@ -56,6 +57,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº11 - Strings y RegEx](docs/material/strings_regex.R)
 - [Clase Nº12 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
 - [Clase Nº12 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
+- [Clase Nº13 / Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
 
 &nbsp;
 
