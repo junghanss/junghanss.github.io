@@ -58,6 +58,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº12 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
 - [Clase Nº12 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
 - [Clase Nº13 / Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
+- [Clase Nº14 - Implementación Recurrent Neural Network in Python](docs/material/RNN_EnergyConsumptionForecasting.ipynb) + [Dataset necesario](docs/material/GEFCom2014-E.xlsx)
 
 &nbsp;
 
