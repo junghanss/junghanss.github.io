@@ -45,6 +45,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº13 - 01/11/2022 - Compensating Wage Differentials & Income Distribution](docs/material/presentacion_clase_13.pdf)
 - [Clase Nº13 bis - Lorenz Curve and Gini Coefficient](docs/material/presentacion_clase_13bis.pdf)
 - [Clase Nº14 - 08/11/2022 - Intro to Machine Learning](docs/material/presentacion_clase_14.pdf)
+- [Clase Nº15 - 15/11/2022 - Labor Unions](docs/material/presentacion_clase_15.pdf)
 
 &nbsp;
 
