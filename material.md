@@ -25,6 +25,8 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 - [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
 - [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
+- [Guía de Ejercicios - Examen Parcial II](docs/material/Ejercicios_Repaso_Parcial_2_Laboral.pdf)
+
 
 &nbsp;
 
