@@ -21,7 +21,9 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Trabajos Prácticos:
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
-<!-- - [Trabajo Práctico Nº2](docs/material/TP_2.pdf)
+
+<!-- 
+- [Trabajo Práctico Nº2](docs/material/TP_2.pdf)
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 - [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
 - [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
@@ -33,7 +35,10 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Presentaciones:
 - [Clase Nº1 - 01/08/2023 - Introducción](docs/material/presentacion_clase_1.pdf)
-<!-- - [Clase Nº2 - 16/08/2022 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
+
+<!-- 
+
+- [Clase Nº2 - 16/08/2022 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
 - [Clase Nº3 - 23/08/2022 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
 - [Clase Nº4 - 30/08/2022 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
 - [Clase Nº5 - 06/09/2022 - Data Wrangling: Dates & Times](docs/material/presentacion_clase_5.pdf)
@@ -49,10 +54,13 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº14 - 08/11/2022 - Intro to Machine Learning](docs/material/presentacion_clase_14.pdf)
 - [Clase Nº15 - 15/11/2022 - Labor Unions](docs/material/presentacion_clase_15.pdf)
 -->
+
 &nbsp;
 
 ### Códigos en R:
-<!-- - [Clase Nº2 - Ejercitación TP Nº1 (updated)](docs/material/clase_2_ejercitacion_TP1.R)
+<!-- 
+
+- [Clase Nº2 - Ejercitación TP Nº1 (updated)](docs/material/clase_2_ejercitacion_TP1.R)
 - [Clase Nº3 - Ejercitación TP Nº1](docs/material/clase_3_ejercitacion_TP1.R)
 - [Clase Nº4 - Introducción a Git & GitHub](docs/material/Notas_codigo_clase_4.docx)
 - [Clase Nº5 - Manipulación de Datos con Dates & Times](docs/material/clase_5_ejercitacion.R)
@@ -64,7 +72,9 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº13 / Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
 - [Clase Nº14 - Implementación Recurrent Neural Network in Python](docs/material/RNN_EnergyConsumptionForecasting.ipynb) + [Dataset necesario](docs/material/GEFCom2014-E.xlsx)
 -->
+
 &nbsp;
+
 
 ### Documentos adicionales:
 - [Definiciones Fuerza Laboral](docs/material/definiciones_fuerza_laboral.pdf)
