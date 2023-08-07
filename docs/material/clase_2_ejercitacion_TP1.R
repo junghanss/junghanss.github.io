@@ -1,13 +1,21 @@
+# install.packages('eph') # Instalamos el paquete de EPH
+library(eph) # Paquete EPH: https://cran.r-project.org/web/packages/eph/vignettes/eph.html
 library(tidyverse) # Core Tidy: incluye ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, y forcats
 library(readxl) # Para importar y leer archivos Excel xls
 
 options(digits = 4) # Funcion para configurar parametros de base R
 
 
-# Importamos el dataset localmente desde nuestra pc, en formato XLSX. NO hace falta pasar parametros de sheet, columns, etc.
+ls('package:eph') # Con la función ls listamos los objetos de un paquete, así podemos ver qué funciones tiene.
+help(package = eph) # Abrimos la documentación.
+
+# Opcion 1: Importamos el dataset localmente desde nuestra pc, en formato XLSX. NO hace falta pasar parametros de sheet, columns, etc.
 dataset_individual <- read_xlsx(
-  path = "G:\\My Drive\\Universidad\\2.2 - UCEMA\\Economía Laboral\\2022 Practica\\4 - Soluciones TP\\TP 1\\Dataset 1Q 2022\\EPH_usu_1er_Trim_2022_xlsx\\usu_individual_T122.xlsx"
-  ) 
+  path = "G:\\My Drive\\Universidad\\UCEMA\\Economía Laboral\\2023 Practica\\4 - Soluciones TP\\TP 1\\Dataset 1Q 2022\\EPH_usu_1er_Trim_2022_xlsx\\usu_individual_T122.xlsx"
+  )
+
+# Opcion 2: Importamos el dataset directamente con el paquete EPH. Se busca por AÑO, TRIMESTRE y TIPO DE BASE (individual u hogar). 
+dataset_individual <- get_microdata(year = 2022, trimester = 1, type = 'individual')
 
 warnings() # Para chequear manualmente las advertencias que arrojó la importación del dataset
 
