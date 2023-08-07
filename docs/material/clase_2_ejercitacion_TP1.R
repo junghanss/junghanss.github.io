@@ -47,7 +47,9 @@ names(dataset_individual) # Notese cómo quedaron nuestros nombres de variables
 poblacion_general <- dataset_individual %>% 
   summarise(poblacion_total = sum(PONDERA), ocupados =sum(PONDERA[ESTADO==1]), desocupados = sum(PONDERA[ESTADO==2]), pea = ocupados+desocupados)
 # Recuerden que summarise (o summarize) era la función que nos permite crear multiples variables de resumen simultaneamente.
+
 print(poblacion_general)
+poblacion_general # con o sin print vemos en consola lo mismo
 
 tasa_empleo <- poblacion_general$ocupados / poblacion_general$poblacion_total
 print(tasa_empleo) # Coincide con el informe técnico
