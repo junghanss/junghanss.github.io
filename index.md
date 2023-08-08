@@ -10,7 +10,7 @@
 **Segundo semestre 2023 - Junghanss Juan Cruz**
 
 ### Anuncios temporales: Oferta de trabajo - Personal Assistant part-time (2hs) 
-[Descripcion del puesto](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/material/Perfil - Asistente Personal.pdf) 
+[Descripcion del puesto](docs/material/Perfil - Asistente Personal.pdf) 
 
 ### Descripción del curso:
 El curso de Economía Laboral se centra en el funcionamiento de los mercados de trabajo y la teoría del capital humano, cubriendo tanto aspectos teóricos como empíricos. Las sesiones prácticas se enfocarán principalmente en la **programación en R**, el **análisis de datos** y las **implementaciones empíricas** de la economía laboral. Estas sesiones son un complemento a las clases teóricas del curso y, por ende, llevan una nota que ponderará sobre la calificación final de la materia.
