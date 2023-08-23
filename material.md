@@ -21,7 +21,9 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Trabajos Prácticos:
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
+- [Trabajo Practico Nº2](docs/material/TP_2.pdf)
 
+  
 <!-- 
 - [Trabajo Práctico Nº2](docs/material/TP_2.pdf)
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
