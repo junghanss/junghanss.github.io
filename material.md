@@ -22,10 +22,10 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 ### Trabajos Prácticos:
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
 - [Trabajo Practico Nº2](docs/material/TP_2.pdf)
+- [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 
   
 <!-- 
-- [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 - [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
 - [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
 - [Guía de Ejercicios - Examen Parcial II](docs/material/Ejercicios_Repaso_Parcial_2_Laboral.pdf)
