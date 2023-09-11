@@ -41,11 +41,11 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº4 - 23/08/2023 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
 - [Clase Nº5 - 29/08/2023 - Data Wrangling: Dates & Times](docs/material/presentacion_clase_5.pdf)
 - [Clase Nº6 - 05/09/2023 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
+- [Clase Nº7 - 12/09/2023 - Dynamic Labor Supply and Labor Demand](docs/material/presentacion_clase_7.pdf)
+- [Clase Nº7 bis - 12/09/2022 - Ejercicio 4 TP2](docs/material/TP2_Ej4.pdf)
 
   
 <!-- 
-- [Clase Nº7 - 20/09/2022 - Dynamic Labor Supply and Labor Demand](docs/material/presentacion_clase_7.pdf)
-- [Clase Nº7 bis - 20/09/2022 - Ejercicio 4 TP2](docs/material/TP2_Ej4.pdf)
 - [Clase Nº9 - 04/10/2022 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_9.pdf)
 - [Clase Nº10 - 11/10/2022 - Vectors & Factors in R](docs/material/presentacion_clase_10.pdf)
 - [Clase Nº11 - 18/10/2022 - Strings & RegEx in R](docs/material/presentacion_clase_11.pdf)
