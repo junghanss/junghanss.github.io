@@ -24,9 +24,9 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Trabajo Practico Nº2](docs/material/TP_2.pdf)
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 - [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
+- [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
 
 <!-- 
-- [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
 - [Guía de Ejercicios - Examen Parcial II](docs/material/Ejercicios_Repaso_Parcial_2_Laboral.pdf)
 -->
 
@@ -45,10 +45,9 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº8 - 19/09/2023 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_8.pdf)
 - [Clase Nº10 - 03/10/2023 - Vectors & Factors in R](docs/material/presentacion_clase_10.pdf)
 - [Clase Nº11 - 10/10/2023 - Strings & RegEx in R](docs/material/presentacion_clase_11.pdf)
-
+- [Clase Nº13 - 24/10/2023 - Python & Stata](docs/material/presentacion_clase_13.pdf)
   
 <!-- 
-- [Clase Nº12 - 25/10/2022 - Python & Stata](docs/material/presentacion_clase_12.pdf)
 - [Clase Nº13 - 01/11/2022 - Compensating Wage Differentials & Income Distribution](docs/material/presentacion_clase_13.pdf)
 - [Clase Nº13 bis - Lorenz Curve and Gini Coefficient](docs/material/presentacion_clase_13bis.pdf)
 - [Clase Nº14 - 08/11/2022 - Intro to Machine Learning](docs/material/presentacion_clase_14.pdf)
@@ -65,11 +64,11 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº10 - Vectores y Factors](docs/material/Vectors_Factors.R)
 - [Clase Nº11 - Ejercitación TP Nº3](docs/material/TP3_Correlacion_Informalidad.R)
 - [Clase Nº11 - Strings y RegEx](docs/material/strings_regex.R)
+- [Clase Nº13 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
+- [Clase Nº13 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
 
   
 <!-- 
-- [Clase Nº12 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
-- [Clase Nº12 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
 - [Clase Nº13 / Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
 - [Clase Nº14 - Implementación Recurrent Neural Network in Python](docs/material/RNN_EnergyConsumptionForecasting.ipynb) + [Dataset necesario](docs/material/GEFCom2014-E.xlsx)
 -->
