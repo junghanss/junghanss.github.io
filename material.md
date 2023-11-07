@@ -48,10 +48,10 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº13 - 24/10/2023 - Python & Stata](docs/material/presentacion_clase_13.pdf)
 - [Clase Nº14 - 31/10/2023 - Compensating Wage Differentials & Income Distribution](docs/material/presentacion_clase_14.pdf)
 - [Clase Nº14 bis - Lorenz Curve and Gini Coefficient](docs/material/presentacion_clase_14bis.pdf)
+- [Clase Nº15 - 07/11/2023 - Labor Unions](docs/material/presentacion_clase_15.pdf)
   
 <!-- 
 - [Clase Nº14 - 08/11/2022 - Intro to Machine Learning](docs/material/presentacion_clase_14.pdf)
-- [Clase Nº15 - 15/11/2022 - Labor Unions](docs/material/presentacion_clase_15.pdf)
 -->
 
 &nbsp;
