@@ -7,23 +7,23 @@
 
 ## Acerca del curso
 **Sitio repositorio para las clases prácticas de Economía Laboral.**<br>
-**Segundo semestre 2023 - Junghanss Juan Cruz**
+**Segundo semestre 2024 - Junghanss Juan Cruz**
 
 ### Descripción del curso:
 El curso de Economía Laboral se centra en el funcionamiento de los mercados de trabajo y la teoría del capital humano, cubriendo tanto aspectos teóricos como empíricos. Las sesiones prácticas se enfocarán principalmente en la **programación en R**, el **análisis de datos** y las **implementaciones empíricas** de la economía laboral. Estas sesiones son un complemento a las clases teóricas del curso y, por ende, llevan una nota que ponderará sobre la calificación final de la materia.
 
 
 ### Logística del curso:
-- Horarios de cursada: martes de 13 a 15hs. 
-- Modalidad: presencial. No se dispondrán de grabaciones de las clases por resolución de la Universidad.
+- Horarios de cursada: miércoles de 9 a 11hs. 
+- Modalidad: online. Se dispondrá de clases presenciales en caso de ser conveniente.
 - Contenido: el material se actualizará siempre en esta página. Adicionalmente, documentos importantes como TPs se pueden encontrar también en el Webcampus oficial.
 
 
 ### Cronograma:
 El cronograma se compone de la siguiente manera y está sujeto a eventuales cambios sin previo aviso de ser necesario:
 
-![Cronograma Version 1](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/Cronograma_6.png)
-_Última actualización: 30/10/2023 (versión 6)_
+![Cronograma Version 1](https://raw.githubusercontent.com/junghanss/junghanss.github.io/main/docs/images/Cronograma_1.png)
+_Última actualización: 30/07/2024 (versión 1)_
 
 
 ### Calificación:
@@ -44,7 +44,7 @@ No se incluye en el curso, pero se recomienda la siguiente bibliografía para pr
 
 ### Contacto:
 - Mail: [junghanss.jc@gmail.com](mailto:junghanss.jc@gmail.com)
-- Telegram: @jcjunghanss / Whatsapp: +54 9 11 2167-1040
+- Whatsapp: +54 9 11 2167-1040
 - [LinkedIn](https://www.linkedin.com/in/junghanss-juan/)
 
 &nbsp;
