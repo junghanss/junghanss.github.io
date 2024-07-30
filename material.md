@@ -21,12 +21,13 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Trabajos Prácticos:
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
+
+  
 <!-- 
 - [Trabajo Practico Nº2](docs/material/TP_2.pdf)
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 - [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
 - [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
-
 
 - [Guía de Ejercicios - Examen Parcial II](docs/material/Ejercicios_Repaso_Parcial_2_Laboral.pdf)
 -->
@@ -36,6 +37,8 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Presentaciones:
 - [Clase Nº1 - 01/08/2023 - Introducción](docs/material/presentacion_clase_1.pdf)
+
+
 <!-- 
 - [Clase Nº2 - 08/08/2023 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
 - [Clase Nº3 - 22/08/2023 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
@@ -53,13 +56,13 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº15 - 07/11/2023 - Labor Unions](docs/material/presentacion_clase_15.pdf)
 - [Clase Nº16 - 14/11/2023 - Incentive Pay](docs/material/presentacion_clase_16.pdf)
   
-
 - [Clase Nº14 - 08/11/2022 - Intro to Machine Learning](docs/material/presentacion_clase_14.pdf)
 -->
 
 &nbsp;
 
 ### Códigos en R:
+
 <!-- 
 - [Clase Nº2 - Ejercitación TP Nº1](docs/material/clase_2_ejercitacion_TP1.R)
 - [Clase Nº3 - Ejercitación TP Nº1](docs/material/clase_3_ejercitacion_TP1.R)
