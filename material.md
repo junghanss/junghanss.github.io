@@ -37,6 +37,7 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Presentaciones:
 - [Clase Nº1 - 31/07/2024 - Introducción](docs/material/presentacion_clase_1.pdf)
+- [Clase Nº1 bis - 31/07/2024 - Introducción](docs/material/presentacion_clase_1bis.pdf)
 
 
 <!-- 
