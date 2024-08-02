@@ -38,11 +38,11 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 ### Presentaciones:
 - [Clase Nº1 - 31/07/2024 - Introducción](docs/material/presentacion_clase_1.pdf)
 - [Clase Nº1 bis - 31/07/2024 - Introducción](docs/material/presentacion_clase_1bis.pdf)
+- [Clase Nº2 - 14/08/2024 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
+- [Clase Nº3 - 14/08/2024 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
 
 
 <!-- 
-- [Clase Nº2 - 08/08/2023 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
-- [Clase Nº3 - 22/08/2023 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
 - [Clase Nº4 - 23/08/2023 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
 - [Clase Nº5 - 29/08/2023 - Data Wrangling: Dates & Times](docs/material/presentacion_clase_5.pdf)
 - [Clase Nº6 - 05/09/2023 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
@@ -64,9 +64,12 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 
 ### Códigos en R:
 
-<!-- 
 - [Clase Nº2 - Ejercitación TP Nº1](docs/material/clase_2_ejercitacion_TP1.R)
 - [Clase Nº3 - Ejercitación TP Nº1](docs/material/clase_3_ejercitacion_TP1.R)
+
+
+
+<!-- 
 - [Clase Nº4 - Introducción a Git & GitHub](docs/material/Notas_codigo_clase_4.docx)
 - [Clase Nº5 - Manipulación de Datos con Dates & Times](docs/material/clase_5_ejercitacion.R)
 - [Clase Nº10 - Vectores y Factors](docs/material/Vectors_Factors.R)
