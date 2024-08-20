@@ -40,10 +40,10 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº1 bis - 31/07/2024 - Introducción](docs/material/presentacion_clase_1bis.pdf)
 - [Clase Nº2 - 14/08/2024 - Análisis EPH & Intro to Data Transformation](docs/material/presentacion_clase_2.pdf)
 - [Clase Nº3 - 14/08/2024 - Data Wrangling](docs/material/presentacion_clase_3.pdf)
+- [Clase Nº4 - 21/08/2024 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
 
 
 <!-- 
-- [Clase Nº4 - 23/08/2023 - Intro to Git & GitHub](docs/material/presentacion_clase_4.pdf)
 - [Clase Nº5 - 29/08/2023 - Data Wrangling: Dates & Times](docs/material/presentacion_clase_5.pdf)
 - [Clase Nº6 - 05/09/2023 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
 - [Clase Nº7 - 12/09/2023 - Dynamic Labor Supply and Labor Demand](docs/material/presentacion_clase_7.pdf)
