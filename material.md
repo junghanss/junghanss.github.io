@@ -22,10 +22,11 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 ### Trabajos Prácticos:
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
 - [Trabajo Practico Nº2](docs/material/TP_2.pdf)
+- [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
   
 <!-- 
 - [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
-- [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
+- 
 - [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
 
 - [Guía de Ejercicios - Examen Parcial II](docs/material/Ejercicios_Repaso_Parcial_2_Laboral.pdf)
@@ -44,9 +45,9 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº6 - 04/09/2024 - Labor Supply Problem Review](docs/material/presentacion_clase_6.pdf)
 - [Clase Nº7 - 11/09/2024 - Dynamic Labor Supply and Labor Demand](docs/material/presentacion_clase_7.pdf)
 - [Clase Nº7 bis - 11/09/2024 - Ejercicio 4 TP2](docs/material/TP2_Ej4.pdf)
+- [Clase Nº8 - 18/09/2024 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_8.pdf)
 
 <!-- 
-- [Clase Nº8 - 19/09/2023 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_8.pdf)
 - [Clase Nº10 - 03/10/2023 - Vectors & Factors in R](docs/material/presentacion_clase_10.pdf)
 - [Clase Nº11 - 10/10/2023 - Strings & RegEx in R](docs/material/presentacion_clase_11.pdf)
 - [Clase Nº13 - 24/10/2023 - Python & Stata](docs/material/presentacion_clase_13.pdf)
