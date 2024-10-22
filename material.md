@@ -23,12 +23,10 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Trabajo Práctico Nº1](docs/material/TP_1.pdf)
 - [Trabajo Practico Nº2](docs/material/TP_2.pdf)
 - [Trabajo Práctico Nº3](docs/material/TP_3.pdf)
-  
-<!-- 
-- [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
-- 
 - [Trabajo Práctico Nº4](docs/material/TP_4.pdf)
 
+<!-- 
+- [Guía de Ejercicios - Examen Parcial I](docs/material/Ejercicios_Repaso_Parcial_1_Laboral.pdf)
 - [Guía de Ejercicios - Examen Parcial II](docs/material/Ejercicios_Repaso_Parcial_2_Laboral.pdf)
 -->
 
@@ -48,11 +46,11 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº8 - 18/09/2024 - Dynamic Labor Supply Exercise](docs/material/presentacion_clase_8.pdf)
 - [Clase Nº9 - 25/09/2024 - Vectors & Factors in R](docs/material/presentacion_clase_9.pdf)
 - [Clase Nº10 - 02/10/2024 - Strings & RegEx in R](docs/material/presentacion_clase_10.pdf)
+- [Clase Nº12 y 13 - 16/10/2024 - Python & Stata](docs/material/presentacion_clase_13.pdf)
+- [Clase Nº14 - 23/10/2024 - Compensating Wage Differentials & Income Distribution](docs/material/presentacion_clase_14.pdf)
+- [Clase Nº14 bis - Lorenz Curve and Gini Coefficient](docs/material/presentacion_clase_14bis.pdf)
 
 <!-- 
-- [Clase Nº13 - 24/10/2023 - Python & Stata](docs/material/presentacion_clase_13.pdf)
-- [Clase Nº14 - 31/10/2023 - Compensating Wage Differentials & Income Distribution](docs/material/presentacion_clase_14.pdf)
-- [Clase Nº14 bis - Lorenz Curve and Gini Coefficient](docs/material/presentacion_clase_14bis.pdf)
 - [Clase Nº15 - 07/11/2023 - Labor Unions](docs/material/presentacion_clase_15.pdf)
 - [Clase Nº16 - 14/11/2023 - Incentive Pay](docs/material/presentacion_clase_16.pdf)
   
@@ -69,17 +67,14 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº5 - Manipulación de Datos con Dates & Times](docs/material/clase_5_ejercitacion.R)
 - [Clase Nº9 - Vectores y Factors](docs/material/Vectors_Factors.R)
 - [Clase Nº10 - Strings y RegEx](docs/material/strings_regex.R)
-
-<!-- 
-
 - [Clase Nº10 - Ejercitación TP Nº3](docs/material/TP3_Correlacion_Informalidad.R)
-
 - [Clase Nº13 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
 - [Clase Nº13 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
+
+
+
+<!-- 
 - [Clase Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
-
-  
-
 - [Clase Nº14 - Implementación Recurrent Neural Network in Python](docs/material/RNN_EnergyConsumptionForecasting.ipynb) + [Dataset necesario](docs/material/GEFCom2014-E.xlsx)
 -->
 
