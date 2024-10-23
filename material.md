@@ -70,11 +70,10 @@ Este sitio provee todo el material relacionado a las clases, es decir, presentac
 - [Clase Nº10 - Ejercitación TP Nº3](docs/material/TP3_Correlacion_Informalidad.R)
 - [Clase Nº13 - Python & Stata in R](docs/material/python_stata_basics.R) ; [Archivo Python](docs/material/archivo_clase_12.py) ; [Archivo R](docs/material/archivo_clase_12.R) ; [Archivo Stata](docs/material/archivo_stata_tp3.do)
 - [Clase Nº13 bis - Python Basics with Jupyter](docs/material/clase_12_python.ipynb)
-
+- [Clase Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
 
 
 <!-- 
-- [Clase Nº14 - Income Distribution in R](docs/material/distribucion_R.r)
 - [Clase Nº14 - Implementación Recurrent Neural Network in Python](docs/material/RNN_EnergyConsumptionForecasting.ipynb) + [Dataset necesario](docs/material/GEFCom2014-E.xlsx)
 -->
 
